@@ -1,7 +1,5 @@
 # LeetCode-Solutions-in-Python
 
-🚀 LeetCode Solutions in Python
-
 This repository serves as a personal archive of my journey through LeetCode. My goal is to master Data Structures and Algorithms while maintaining high standards for code clarity and efficiency.
 
 📌 Repository StructureSolutions are organized by difficulty and topic
