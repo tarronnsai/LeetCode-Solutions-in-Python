@@ -7,4 +7,5 @@ Easy: Fundamental concepts and syntax.
 Medium: Core algorithmic patterns (Sliding Window, Two Pointers, BFS/DFS).
 Hard: Advanced logic (Dynamic Programming, Graph Theory, Complex Math).
 
-🛠 Tech StackLanguage: Python 3.xFocus: $O(n)$ or $O(\log n)$ time complexity optimizations.
+🛠 Tech StackLanguage: Python 3.
+Focus: $O(n)$ or $O(\log n)$ time complexity optimizations.
